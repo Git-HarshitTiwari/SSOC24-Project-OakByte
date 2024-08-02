@@ -1,9 +1,9 @@
 # Oak Trips
-# By Team OakByte
+# By Team OakByte-Harshit Tiwari
 
 https://github.com/user-attachments/assets/05270218-9c4e-4708-949d-04879187734c
 
--Harshit Tiwari
+
 
 **Oak Trips** is a frontend project developed as part of Social Summer of Code 2024 by Harshit Tiwari. This travel agency website is built from scratch using HTML, CSS, and JavaScript, showcasing a user-friendly and interactive design for easier travel planning.
 
